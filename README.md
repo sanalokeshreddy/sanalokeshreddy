@@ -23,7 +23,7 @@
 ## 🚀 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,tailwind,spring,firebase,mysql,h2,docker,git,github,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,spring,firebase,mysql,docker,git,github,postman&perline=8" />
 </p>
 
 ---
