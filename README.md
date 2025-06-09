@@ -1,108 +1,104 @@
-<h1 align="center">Hey there, I'm Sana Lokesh Reddy 👋</h1>
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=250&section=header&text=Sana%20Lokesh%20Reddy&fontSize=50&fontAlign=center&fontColor=ffffff" />
 </p>
 
+<!-- Animated Typing Intro -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Explorer;React+%2B+SpringBoot+Fan;Tech+Event+Organizer;Let%27s+build+impact+with+code!"/>
+</h2>
+
 <p align="center">
-  <a href="mailto:sanalokeshreddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-sanalokeshreddy-red?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sanalokeshreddy"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/sanalokeshreddy"><img src="https://img.shields.io/github/followers/sanalokeshreddy?style=social"></a>
+  <img src="https://komarev.com/ghpvc/?username=sanalokeshreddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech CSE @ **SRM Institute of Science & Technology** | CGPA: **9.45**
-- 💡 Passionate about **Full-Stack Development**, **AI**, and **Clean Code**
-- 🤝 Technical Team Associate @ **Logic Play Club, SRM**
-- 📫 I'm currently open to **internships, collaborations, and freelance roles**
+
+- 🧑‍🎓 3rd year B.Tech CSE @ SRM Institute (CGPA: **9.45**)
+- 🧠 AI enthusiast & full-stack web developer
+- 🛠 Built: DevSage AI Bug Tracker | RetailAura | Bookstore System
+- 🔭 Currently exploring LLM integration into enterprise apps
+- 🎯 Passionate about open-source, community & real-world impact
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-### 🖥️ Languages & Fundamentals
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### 🧠 Backend & Database
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2_DB-6A6AA0?style=flat&logo=h2&logoColor=white)
-
-### ⚙️ Tools & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=java,python,cpp" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=spring,firebase,mysql,h2" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,postman" /></td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔧 [DevSage – AI Bug Tracker](https://github.com/sanalokeshreddy/DevSage)
-> AI-powered platform for predicting bug severity  
-🔹 Stack: React, Tailwind, Spring Boot, Gemini AI API  
-🔹 Features: Real-time severity prediction, comment system, clean UI
-
-### 📚 Bookstore Management System
-> Spring Boot + MySQL-based CRUD system for book inventory  
-🔹 REST APIs, Thymeleaf rendering, smooth Spring MVC architecture
-
-### 🛒 RetailAura – AI Shopping Assistant
-> AI-powered retail platform with personalized LLM support  
-🔹 Features: Conversational assistant, Firebase backend, payments
+### 🔹 [DevSage – AI Bug Tracker](https://github.com/sanalokeshreddy/DevSage)
+> A modern AI-powered bug tracker predicting severity using Gemini AI  
+Tech Stack: React, Tailwind CSS, Spring Boot, H2, Gemini API  
+<p><img src="https://img.shields.io/badge/AI-Driven-informational?style=flat&logo=OpenAI&color=purple" /></p>
 
 ---
 
-## 📜 Certifications
-
-| Course | Platform | Status |
-|-------|----------|--------|
-| Python for Data Science (Top 2%) | NPTEL, IIT Madras | ✅ Elite Silver |
-| Intro to Machine Learning | NPTEL, IIT KGP | ✅ Elite Silver |
-| Modern C++ | NPTEL, IIT KGP | ✅ Completed |
-| Java Programming | NPTEL, IIT KGP | ✅ Completed |
-| Cloud Computing | NPTEL, IIT KGP | ✅ Completed |
-| GitHub Foundations | GitHub | ✅ Certified |
-
-📂 [View All Certificates](https://drive.google.com/drive/folders/1Vp3CYc5CRk-PMycfCZwAz6MooUv7n1Cw?usp=drive_link)
+### 📘 Bookstore Management System
+> Full-stack app for managing books using Spring Boot + Thymeleaf + MySQL  
+Features: CRUD, MVC, REST APIs, UI templating
 
 ---
 
-## 💼 Experience
-
-### 💻 Bluestock (Nov 2024 – Dec 2024)
-**Role:** Software Development Intern (Remote)  
-- Developed frontend with HTML/CSS/JS & Bootstrap  
-- API integration, SQL-backed real-time data display  
-- Debugged UI and enhanced performance
+### 🛍 RetailAura – AI Retail Assistant  
+> Personalized shopping assistant using LLMs + Firebase  
+Secure payment, recommendation engine, chatbot support
 
 ---
 
-## 🏆 Achievements
+## 🏅 Certifications
 
-- 🥇 NPTEL **Topper (Top 2%)** – Python for Data Science  
-- 🧠 Consistent academic performance: **CGPA 9.45+**
-- 📊 Active contributor & organizer of Zettabytes Data Analytics Hackathon (Logic Play Club)
+| Course | Platform | Year |
+|--------|----------|------|
+| Python for Data Science (Top 2%) | NPTEL, IIT Madras | 2025 |
+| Intro to ML | NPTEL, IIT Kharagpur | 2024 |
+| Programming in Java / C++ | NPTEL, IIT Kharagpur | 2024–25 |
+| Cloud Computing | NPTEL, IIT Kharagpur | 2025 |
+| GitHub Foundations | GitHub | 2025 |
+
+📂 [View Certificates](https://drive.google.com/drive/folders/1Vp3CYc5CRk-PMycfCZwAz6MooUv7n1Cw?usp=drive_link)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanalokeshreddy&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanalokeshreddy&theme=radical&hide_border=false" alt="Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanalokeshreddy&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanalokeshreddy&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanalokeshreddy&theme=tokyonight" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanalokeshreddy&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanalokeshreddy&theme=radical&margin-w=15&margin-h=15&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/sanalokeshreddy/sanalokeshreddy/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -118,5 +114,5 @@
 ---
 
 <p align="center">
-  💡 “I build, therefore I learn.”  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
 </p>
