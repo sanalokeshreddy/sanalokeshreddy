@@ -25,7 +25,7 @@
 
 ### 👨‍💻 Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" height="40" />
 </div>
 
 ### 🌐 Frontend
@@ -35,7 +35,7 @@
 
 ### 🧪 Backend & DB
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgres" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres" height="40" />
 </div>
 
 ### 🛠️ Tools & Platforms
