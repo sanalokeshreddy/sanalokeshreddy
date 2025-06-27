@@ -1,8 +1,8 @@
 <!-- 💼 SANA LOKESH REDDY | GITHUB README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sana+Lokesh+Reddy;Full+Stack+Developer+%7C+AI+Engineer;SpringBoot+%2B+React+%2B+GenAI+%3D+🔥+Products" alt="Typing animation" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=F97316&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sana+Lokesh+Reddy;Full+Stack+Developer+%7C+AI+Engineer;SpringBoot+%2B+React+%2B+GenAI+%3D+%F0%9F%94%A5+Products" alt="Typing Animation" />
+</p>
 
 <h3 align="center">Final Year CSE Student @ SRM IST | Building AI-Driven Full Stack Solutions</h3>
 
@@ -45,12 +45,12 @@
 
 ---
 
-## 🧩 Featured Projects
+## 💼 Featured Projects
 
 ### 🔹 [DevHire AI – Resume Analyzer](https://devhire-frontend.vercel.app/)
 > AI-driven resume & job matching tool powered by Google Gemini
 
-- 🔧 Tech: React, Tailwind, Spring Boot, Apache Tika, Gemini AI
+- 🔧 Tech: React, Tailwind, Spring Boot, Apache Tika, Gemini AI  
 - 🎯 Features: Skill gap heatmap, multi-resume upload, match score, PDF reports
 
 ---
@@ -58,7 +58,7 @@
 ### 🔹 [DevSage – AI Bug Tracker](https://github.com/sanalokeshreddy/DevSage)
 > Predict bug severity and manage reports using AI
 
-- 🔧 Tech: React, Tailwind, Spring Boot, Gemini API
+- 🔧 Tech: React, Tailwind, Spring Boot, Gemini API  
 - 📈 Features: Smart prediction, comment threads, Docker deploy
 
 ---
