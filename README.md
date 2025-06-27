@@ -1,79 +1,73 @@
-<!-- ⚡ Sana Lokesh Reddy – GitHub README ⚡ -->
+<!-- 💼 SANA LOKESH REDDY | GITHUB README -->
 
 <h1 align="center">
-  👋 Hey, I'm <span style="color:#F97316;"><strong>Sana Lokesh Reddy</strong></span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sana+Lokesh+Reddy;Full+Stack+Developer+%7C+AI+Engineer;SpringBoot+%2B+React+%2B+GenAI+%3D+🔥+Products" alt="Typing animation" />
 </h1>
-<h3 align="center">Final Year CSE @ SRM | Full Stack Developer | AI Innovator</h3>
+
+<h3 align="center">Final Year CSE Student @ SRM IST | Building AI-Driven Full Stack Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Spring+Boot+%7C+React+%7C+Docker+%7C+GenAI+Projects;Clean+Code+%2B+AI+%3D+Innovation;Building+Impactful+Solutions..." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Code gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" />
 </p>
 
 ---
 
-## 🚀 Tech Toolbox
+## 🚀 About Me
 
+- 🎓 Final-year Computer Science Engineering student at SRM Institute of Science and Technology (CGPA: **9.45**)
+- 🛠️ Passionate about full-stack web development and GenAI integration
+- 🔭 Currently building: **DevHire AI** – AI-powered resume analyzer
+- 🧠 Exploring: Spring Boot internals, scalable system design, and React animation
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Languages
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp" height="40" />
+</div>
 
-### 🧠 Programming Languages  
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,sql" width="400"/>
+### 🌐 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" height="40" />
+</div>
 
-### 🌐 Frontend Development  
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" width="300"/>
+### 🧪 Backend & DB
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgres" height="40" />
+</div>
 
-### ⚙️ Backend & Frameworks  
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" width="250"/>
-
-### 🛠️ Tools & DevOps  
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,vercel,render" width="420"/>
-
+### 🛠️ Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,vercel,render" height="40" />
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧩 Featured Projects
 
-- 🎓 Final-year Computer Science student at SRM IST (CGPA: **9.45/10**)
-- 🔭 Building full-stack products using **Spring Boot + React + GenAI**
-- 🧠 Passionate about AI-driven apps, backend systems, and clean UI/UX
-- 🧩 Loves converting ideas into real-world working prototypes
+### 🔹 [DevHire AI – Resume Analyzer](https://devhire-frontend.vercel.app/)
+> AI-driven resume & job matching tool powered by Google Gemini
 
----
-
-## 💼 Projects
-
-### 🚀 [DevHire AI – Resume Analyzer](https://devhire-frontend.vercel.app/)
-> AI-powered recruitment platform using Gemini AI, PDF parsing, JD matching, and resume heatmaps.
-
-**Tech**: React, Tailwind, Spring Boot, Apache Tika, Google Gemini AI, Vite  
-**Features**: Skill gap analysis, multi-resume matching, match scores, report downloads
+- 🔧 Tech: React, Tailwind, Spring Boot, Apache Tika, Gemini AI
+- 🎯 Features: Skill gap heatmap, multi-resume upload, match score, PDF reports
 
 ---
 
-### 🐞 [DevSage AI – Bug Tracker](https://github.com/sanalokeshreddy/DevSage)
-> AI-integrated bug tracker that predicts bug severity using Gemini AI.
+### 🔹 [DevSage – AI Bug Tracker](https://github.com/sanalokeshreddy/DevSage)
+> Predict bug severity and manage reports using AI
 
-**Tech**: React, Tailwind CSS, Spring Boot, Gemini AI API  
-**Features**: Bug reporting, team collaboration, intelligent severity predictor
-
----
-
-### 📱 RetailAura – Smart Shopping Assistant
-> Kotlin + Firebase app for barcode scanning & Gemini-powered product suggestions  
-[🎥 Demo](https://www.youtube.com/watch?v=a0QU6w38XKs)
+- 🔧 Tech: React, Tailwind, Spring Boot, Gemini API
+- 📈 Features: Smart prediction, comment threads, Docker deploy
 
 ---
 
 ## 🏆 Certifications
 
-- 🎓 **Python for Data Science (NPTEL Top 2%)** – Elite + Silver  
+- 🥇 **NPTEL Python for Data Science** – Top 2%, Elite + Silver  
 - ☁️ **Oracle Cloud Foundations Associate – 2024**  
-- 📘 **Machine Learning (NPTEL)** – Elite Silver  
-- 🔰 **Modern C++, Java Programming, GitHub, Cloud Computing – NPTEL & GitHub**
+- 📘 **NPTEL: Machine Learning** – Elite Silver  
 
 ---
 
@@ -84,13 +78,9 @@
   <img src="https://streak-stats.demolab.com?user=sanalokeshreddy&theme=radical&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanalokeshreddy&theme=tokyonight" width="96%"/>
-</p>
-
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanalokeshreddy/">
@@ -104,10 +94,8 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanalokeshreddy&style=for-the-badge" />
 </p>
 
-<p align="center"><i>"Fueled by curiosity and caffeine ☕ | Building the future with clean code ✨"</i></p>
+<p align="center"><i>“Code is the canvas, AI is the brush.”</i></p>
