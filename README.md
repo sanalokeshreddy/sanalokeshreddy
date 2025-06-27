@@ -1,95 +1,111 @@
-<!-- 🌟 GITHUB PROFILE README FOR SANA LOKESH REDDY 🌟 -->
-
-<h1 align="center">Hey there, I'm Sana Lokesh Reddy 👨‍💻</h1>
-<h3 align="center">Final Year CSE Student | Full Stack Developer | AI Enthusiast</h3>
+<!-- 🌟 Ultimate GitHub README for Sana Lokesh Reddy 🌟 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+developer+%7C+AI+projects+with+impact;GenAI+%7C+Spring+Boot+%7C+React+%7C+Docker;Final+year+@+SRM+IST+%7C+Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=800&color=F97316&center=true&vCenter=true&multiline=true&width=500&lines=Hi+There+%F0%9F%91%8B+I'm+Sana+Lokesh+Reddy;Full+Stack+Developer+%7C+AI+Engineer+%7C+SpringBoot+%2B+React;Building+Real+World+AI+Projects+That+Matter!" alt="Typing SVG" />
+</p>
+
+<h3 align="center">Final Year CSE | SRM IST | Innovating with GenAI ⚡</h3>
+
+<br/>
+
+---
+
+## 🧠 Who Am I?
+
+- 🔭 Full Stack + AI Dev building cutting-edge products  
+- 💼 Creator of **DevHire AI** & **DevSage AI Bug Tracker**  
+- 🌱 Diving deep into Spring Boot, React, and scalable AI architectures  
+- 🎯 Mission: Solve real-world problems through clean code and intelligent systems  
+- 🎓 Final Year CSE @ SRM, CGPA: **9.45/10**
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### 💻 Programming & Scripting
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" width="220"/>
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" width="250"/>
+
+### 🔧 Backend & DB
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgres" width="270"/>
+
+### ⚙️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=github,docker,postman,vercel,render,vscode" width="290"/>
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🎯 [DevHire AI – Resume Analyzer](https://devhire-frontend.vercel.app/)
+> _A GenAI-powered platform for resume-job JD matching, career roadmap & PDF insights_
+
+- 🔧 Stack: React, Tailwind, Spring Boot, Apache Tika, Gemini AI  
+- 📊 Features: Multi-resume parsing, heatmaps, match score, download reports
+
+---
+
+### 🐞 [DevSage – AI Bug Tracker](https://github.com/sanalokeshreddy/DevSage)
+> _A bug reporting platform with real-time AI-based severity predictions_
+
+- 🔧 Stack: React, Spring Boot, Gemini AI API  
+- 📈 Smart AI predictions, Dockerized backend, bug comment system
+
+---
+
+### 🛍️ [RetailAura – Android AI Assistant](https://www.youtube.com/watch?v=a0QU6w38XKs)
+> _ML barcode scanner + Gemini product advisor for smart shopping experience_
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🧠 NPTEL “Python for Data Science” – **Top 2%** (Elite + Silver)  
+- ☁️ Oracle Cloud Foundations Associate – 2024  
+- 📘 NPTEL “Machine Learning” – Elite Silver  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanalokeshreddy&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=sanalokeshreddy&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanalokeshreddy&theme=tokyonight" width="96%"/>
 </p>
 
 ---
 
-## 🚀 Tech Toolbox
-
-### 🧠 Languages
-![Java](https://img.shields.io/badge/Java-%23f89820.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🛠 Backend & Tools
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧰 Dev Tools
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📌 Highlight Projects
-
-### 🔹 [DevHire AI – Resume Analyzer](https://devhire-frontend.vercel.app/)
-> _GenAI-powered recruitment platform that compares multiple resumes with job descriptions using Google Gemini AI._
-
-- React + Spring Boot + Gemini AI + Apache Tika
-- Visual resume matching, PDF reports, skill heatmaps, career roadmap
-
-### 🔹 [DevSage – AI Bug Tracker](https://github.com/sanalokeshreddy/DevSage)
-> _Smart bug reporting platform that predicts bug severity using AI and helps teams prioritize tasks._
-
-- Built using React, Spring Boot, Gemini AI API
-- Predictive severity, collaboration features, Dockerized
-
-### 🔹 [RetailAura – Android AI App](https://www.youtube.com/watch?v=a0QU6w38XKs)
-> _ML-powered Android app with product recommendations via barcode scan & Gemini AI_
-
----
-
-## 🏆 Certifications
-
-- ✅ **NPTEL: Python for Data Science (Top 2%)**
-- ✅ **Oracle Cloud Infrastructure Foundations 2024**
-- ✅ **NPTEL: Introduction to Machine Learning (Elite + Silver)**
-
----
-
-## 📈 GitHub Analytics
+## 🔗 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanalokeshreddy&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=sanalokeshreddy&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanalokeshreddy&theme=monokai" />
+  <a href="https://www.linkedin.com/in/sanalokeshreddy/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ls7679@srmist.edu.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sanalokeshreddy">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
-
-## 💬 Let's Connect
-
-<a href="https://www.linkedin.com/in/sanalokeshreddy/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ls7679@srmist.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanalokeshreddy&style=for-the-badge" />
 </p>
 
----
-
-<p align="center"><i>"Fueled by coffee ☕ and curiosity — always building!"</i></p>
+<p align="center"><i>Fueled by caffeine, curiosity, and clean code ✨</i></p>
