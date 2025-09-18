@@ -1,101 +1,125 @@
-<!-- 💼 SANA LOKESH REDDY | GITHUB README -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=F97316&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sana+Lokesh+Reddy;Full+Stack+Developer+%7C+AI+Engineer;SpringBoot+%2B+React+%2B+GenAI+%3D+%F0%9F%94%A5+Products" alt="Typing Animation" />
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%">
 </p>
 
-<h3 align="center">Final Year CSE Student @ SRM IST | Building AI-Driven Full Stack Solutions</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Final-year Computer Science Engineering student at SRM Institute of Science and Technology (CGPA: **9.45**)
-- 🛠️ Passionate about full-stack web development and GenAI integration
-- 🔭 Currently building: **DevHire AI** – AI-powered resume analyzer
-- 🧠 Exploring: Spring Boot internals, scalable system design, and React animation
-
----
-
-## 🧰 Tech Stack
-
-### 👨‍💻 Languages
+<div id="header" align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyour-github-username%26label%3DPROFILE%2BVIEWS%26color%3Dblueviolet%26style%3Dflat" alt="Profile views"/>
+<h1>
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D30%26pause%3D1000%26color%3D5865F2%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%252C%2BI%27m%2BSana%2BLokesh%2BReddy%3BA%2BFull-Stack%2BDeveloper%3BAn%2BAI%2B%2526%2BML%2BEnthusiast" alt="Typing SVG" />
+</h1>
+<p>A final-year Computer Science and Engineering student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. I enjoy building impactful, data-driven applications that solve real-world problems.</p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" height="40" />
+<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-profile/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="mailto:ls7679@srmist.edu.in">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</div>
 </div>
 
-### 🌐 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" height="40" />
-</div>
-
-### 🧪 Backend & DB
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres" height="40" />
-</div>
-
-### 🛠️ Tools & Platforms
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,vercel,render" height="40" />
-</div>
-
----
-
-## 💼 Featured Projects
-
-### 🔹 [DevHire AI – Resume Analyzer](https://devhire-frontend.vercel.app/)
-> AI-driven resume & job matching tool powered by Google Gemini
-
-- 🔧 Tech: React, Tailwind, Spring Boot, Apache Tika, Gemini AI  
-- 🎯 Features: Skill gap heatmap, multi-resume upload, match score, PDF reports
-
----
-
-### 🔹 [DevSage – AI Bug Tracker](https://github.com/sanalokeshreddy/DevSage)
-> Predict bug severity and manage reports using AI
-
-- 🔧 Tech: React, Tailwind, Spring Boot, Gemini API  
-- 📈 Features: Smart prediction, comment threads, Docker deploy
-
----
-
-## 🏆 Certifications
-
-- 🥇 **NPTEL Python for Data Science** – Top 2%, Elite + Silver  
-- ☁️ **Oracle Cloud Foundations Associate – 2024**  
-- 📘 **NPTEL: Machine Learning** – Elite Silver  
-
----
-
-## 📊 GitHub Stats
+🛠️ My Tech Stack
+Here are some of the technologies I'm proficient in:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanalokeshreddy&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=sanalokeshreddy&theme=radical&hide_border=true" width="48%"/>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+</a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React"/>
+</a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-boot%26logoColor%3Dwhite" alt="Spring Boot"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="Firebase"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"/>
+</a>
+<a href="https://webassembly.org" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/WebAssembly-654FF0%3Fstyle%3Dfor-the-badge%26logo%3Dwebassembly%26logoColor%3Dwhite" alt="WebAssembly"/>
+</a>
 </p>
 
----
+🚀 Featured Projects
+Here are some of the projects I'm most proud of.
 
-## 📫 Connect with Me
+Project
+
+Description
+
+Tech Stack
+
+Links
+
+Gemma Web
+
+A fully private, browser-based AI workspace running Google's Gemma models entirely on-device. It achieves zero-latency inference with 100% data privacy and offline capability through a local-first RAG pipeline.
+
+React WASM Web Workers TensorFlow.js IndexedDB PWA
+
+Live Demo
+
+DevHire AI
+
+An end-to-end, AI-powered recruitment platform to automate candidate evaluation. Features include resume-to-JD scoring, visual heatmaps, and AI-driven skill gap analysis.
+
+React.js Spring Boot Gemini AI Tailwind CSS Apache Tika
+
+Live Demo
+
+Retail Aura
+
+A smart retail Android app to enhance in-store shopping with barcode scanning, AI-powered product recommendations, and a chat assistant.
+
+Kotlin Firebase Razorpay API Gemini AI Android Jetpack
+
+YouTube Demo
+
+🏆 Achievements & Experience
+3rd Place Winner @ Hyperverge SensAl Hackathon
+
+Designed and deployed a conversational quiz bot with an advanced RAG pipeline to auto-generate questions from documents, securing a top-3 finish in a 36-hour hackathon.
+
+Software Development Engineer Intern @ Bluestock
+
+Developed responsive UI components using HTML, CSS, and JavaScript.
+
+Integrated RESTful APIs to connect the frontend with backend services for seamless data flow.
+
+📜 Certifications
+Python for Data Science (NPTEL - Top 2%)
+
+Introduction to Machine Learning (NPTEL)
+
+Cloud Computing (NPTEL)
+
+Programming in Java (NPTEL)
+
+Github Foundations (Github)
+
+Programming in Modern C++ (NPTEL)
+
+📊 My GitHub Stats
+<!-- Replace your-github-username with your actual GitHub username to enable these stats -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanalokeshreddy/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ls7679@srmist.edu.in">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/sanalokeshreddy">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Ddracula%26rank_icon%3Dgithub" alt="GitHub Stats">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Ddracula" alt="Top Languages">
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanalokeshreddy&style=for-the-badge" />
-</p>
-
-<p align="center"><i>“Code is the canvas, AI is the brush.”</i></p>
