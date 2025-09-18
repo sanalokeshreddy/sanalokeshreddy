@@ -1,107 +1,82 @@
-<!-- Custom Banner (replace with your own GIF/banner for best effect) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=200&section=header&text=Sana%20Lokesh%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://i.ibb.co/8B7q0Dd/pro-banner.gif" alt="Sana Lokesh Reddy - AI & Full-Stack Developer Banner" />
 </p>
 
-<h3 align="center">🚀 AI & Full-Stack Developer | Final Year CSE @ SRM IST (2026)</h3>
+<div align="center">
+  <h1>SANA LOKESH REDDY</h1>
+  <h3>AI Engineer & Full-Stack Developer</h3>
+  <p>
+    [cite_start]Final-year Computer Science student (CGPA: 9.43/10) [cite: 9] [cite_start]at SRM IST with proven expertise in architecting and deploying end-to-end AI and full-stack solutions. [cite: 5] [cite_start]My work focuses on creating scalable, high-impact applications, from private on-device AI workspaces to intelligent recruitment platforms. [cite: 6]
+  </p>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C6FF&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+Full-Stack+Development;Hackathon+Winner+%7C+Top+2%25+NPTEL+Scholar;Building+Impactful+AI-Powered+Projects" alt="Typing Animation" />
-</p>
-
----
-
-## 🏆 Highlights  
-
-- 🥇 **3rd Prize Winner – Hyperverge SensAI Hackathon 2025** (₹10,000 cash prize)  
-- 🎓 **CGPA 9.43/10** – Strong academic foundation in Computer Science  
-- 🌟 **Top 2% (Topper)** – NPTEL *Python for Data Science*  
-- 💼 **Bluestock SDE Intern** – Built responsive UI & REST API integrations for fintech apps  
-- 💡 Passionate about **AI, ML, and scalable full-stack systems**  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,sql" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,spring,tailwind,androidstudio,tensorflow" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,firebase" />
+  <a href="https://www.linkedin.com/in/sanalokeshreddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/sanalokeshreddy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:ls7679@srmist.edu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-## 📌 Featured Projects  
+## 🏆 Key Highlights
 
-### 🔹 [Gemma Web – Private On-Device AI Workspace](https://gemma-web-ai.vercel.app/)  
-![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZtM2F3amltNzhzNjh4Z3c4NTR6cDJqYWZibTZjdW04aWk1NGJ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YFkpsHWCsNUUo/giphy.gif)  
-> **React, TensorFlow.js, MediaPipe, WASM, IndexedDB, PWA**  
-- Built a **fully private AI workspace** running Gemma models directly in-browser.  
-- Delivered **zero-latency inference & offline functionality**.  
-- Implemented a **RAG pipeline** for context-aware document conversations.  
-
----
-
-### 🔹 [DevHire AI – AI-Powered Recruitment Platform](https://devhire-frontend.vercel.app/)  
-> **React.js, Spring Boot, Gemini AI, Apache Tika, Tailwind CSS**  
-- Automated **resume-to-JD matching, skill gap analysis, and heatmaps**.  
-- AI-driven analytics to **reduce recruiter workload** and improve **role-matching accuracy**.  
+| Category              | Achievement                                                                                             |
+| --------------------- | ------------------------------------------------------------------------------------------------------- |
+| 🥇 **Hackathon Winner** | [cite_start]**3rd Prize Winner** at Hyperverge SensAI Hackathon for developing a RAG-powered quiz bot. [cite: 39]     |
+|  academically strong | [cite_start]**CGPA 9.43/10** in B.Tech Computer Science & Engineering at SRM University. [cite: 9]                     |
+| 🌟 **Top Performer** | [cite_start]**Top 2% (Topper)** in NPTEL's *Python for Data Science* certification course. [cite: 48]                  |
+| 💼 **Experience** | [cite_start]SDE Intern at **Bluestock**, developing responsive UIs and integrating RESTful APIs. [cite: 13, 15, 16] |
 
 ---
 
-### 🔹 [RetailAura – Smart Shopping Assistant (Android)](https://www.youtube.com/watch?v=a0QU6w38XKs)  
-> **Kotlin, Firebase, Razorpay API, Gemini AI API**  
-- Developed **barcode scanning, AI-powered recommendations & chat assistant**.  
-- Enhanced **in-store shopping experience** with seamless payments.  
+## 🛠️ Technology Stack
+
+| Area                      | Technologies                                                                                             |
+| ------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Languages** | [cite_start]`Java` `Python` `C++` `JavaScript` `HTML/CSS` `SQL` [cite: 72]                                                |
+| **Frameworks & Libs** | [cite_start]`React.js` `Spring Boot` `Tailwind CSS` `TensorFlow.js` `MediaPipe` [cite: 19, 26, 73]                         |
+| **Tools & Technologies** | [cite_start]`Git & GitHub` `Docker` `RESTful APIs` `Postman` `IndexedDB` `WASM` `Firebase` `PWA` [cite: 19, 20, 31, 74] |
 
 ---
 
-### 🔹 [Hyperverge SensAI Hackathon – Interactive Quiz Bot](https://github.com/sanalokeshreddy/HyperVerge)  
-> **RAG Pipeline, Conversational AI, LMS Integration**  
-- 🏆 **3rd Prize Winner** among 72 finalist teams.  
-- Auto-generated MCQs/SAQs with **page/line citations**.  
-- Implemented **no-reveal hints & adaptive Q&A flows**.  
+## 🚀 Featured Projects
+
+### 1. Gemma Web – Private, On-Device AI Workspace
+* [cite_start]**Description**: Engineered a fully private, browser-based AI workspace that runs Google's Gemma models directly on-device using WebAssembly, ensuring 100% data privacy and full offline functionality. [cite: 21] [cite_start]It features a zero-latency, serverless inference engine and a complete Retrieval-Augmented Generation (RAG) pipeline for context-aware conversations with user-uploaded documents (PDF, TXT). [cite: 21, 22, 23]
+* [cite_start]**Architecture**: Architected a comprehensive client-side storage solution using IndexedDB to efficiently cache large AI models, manage conversation histories, and persist document embeddings for a seamless PWA experience. [cite: 24]
+* [cite_start]**Tech Stack**: `React` `JavaScript` `WebAssembly (WASM)` `Web Workers` `MediaPipe` `TensorFlow.js` `IndexedDB` `PWA` [cite: 19, 20]
+* **Links**: **[🔗 Live Demo](https://gemma-web-ai.vercel.app/)**
+
+### 2. DevHire AI – AI-Powered Recruitment Platform
+* [cite_start]**Description**: Architected and developed an end-to-end, AI-powered recruitment platform to automate candidate evaluation, significantly reducing recruiter workload and improving role-matching accuracy. [cite: 27]
+* [cite_start]**Core Features**: Delivered key features including automated resume-to-JD scoring, visual heatmaps for skill alignment, and AI-driven skill gap analysis to provide actionable insights for job seekers. [cite: 29]
+* [cite_start]**Tech Stack**: `React.js` `Spring Boot` `Google Gemini AI` `Tailwind CSS` `Apache Tika` `Java` [cite: 26]
+* **Links**: **[🔗 Live Demo](https://devhire-frontend.vercel.app/)**
+
+### 3. Conversational Quiz Bot (Hyperverge Hackathon Winner)
+* [cite_start]**Description**: Secured 3rd place by designing and deploying a conversational quiz bot integrated directly into Hyperverge's SensAl Learning Management System (LMS) within a 36-hour timeframe. [cite: 38, 39, 41]
+* [cite_start]**Technical Implementation**: Engineered an advanced RAG pipeline to enable the bot to automatically generate questions (MCQs & SAQs) from documents with precise page/line citations. [cite: 42] [cite_start]Implemented interactive Q&A flows using multi-turn dialogue and source-grounded answer verification. [cite: 43]
+* **Links**: **[📂 GitHub Repo](https://github.com/sanalokeshreddy/HyperVerge)**
 
 ---
 
-## 🎓 Certifications  
+## Experience & Education
 
-- 📜 [Python for Data Science – NPTEL (Top 2%)](https://nptel.ac.in/noc/E_Certificate/NPTEL25CS60S44330804201310600)  
-- 📜 [Introduction to Machine Learning – NPTEL](https://nptel.ac.in/noc/E_Certificate/NPTEL24CS81S43310602702694595)  
-- 📜 [Cloud Computing – NPTEL](https://nptel.ac.in/noc/E_Certificate/NPTEL25CS11S94321167804240415)  
-- 📜 [Programming in Java – NPTEL](https://nptel.ac.in/noc/E_Certificate/NPTEL24CS43S105340422530563557)  
-- 📜 [GitHub Foundations](https://www.credly.com/go/tbOwqtCe)  
-- 📜 [Programming in Modern C++ – NPTEL](https://nptel.ac.in/noc/E_Certificate/NPTEL25CS58S34321012804240415)  
+### [cite_start]Bluestock – *Software Development Engineer Intern* (Nov 2024 - Dec 2024) [cite: 11, 13, 14]
+* [cite_start]Developed responsive and user-friendly UI components for the Bluestock web application using HTML, CSS, and JavaScript. [cite: 15]
+* [cite_start]Integrated RESTful APIs to connect the frontend with backend services, enabling seamless data flow and dynamic content display. [cite: 16]
+
+### [cite_start]SRM Institute of Science and Technology – *B.Tech, Computer Science* (2022 - 2026) [cite: 9]
+* [cite_start]**CGPA**: 9.43 / 10.0 [cite: 9]
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanalokeshreddy&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanalokeshreddy&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanalokeshreddy&show_icons=true&theme=tokyonight&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanalokeshreddy&layout=compact&theme=tokyonight" height="180em" alt="Top Languages"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanalokeshreddy&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanalokeshreddy&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
-
----
-
-## 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanalokeshreddy/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ls7679@srmist.edu.in"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sanalokeshreddy"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0078D4&height=100&section=footer"/>
-</p>
-
-✨ *Always exploring the intersection of AI, full-stack development, and real-world impact.* 🚀
