@@ -5,9 +5,7 @@
 <div align="center">
   <h1>SANA LOKESH REDDY</h1>
   <h3>AI Engineer & Full-Stack Developer</h3>
-  <p>
-    [cite_start]Final-year Computer Science student (CGPA: 9.43/10) [cite: 9] [cite_start]at SRM IST with proven expertise in architecting and deploying end-to-end AI and full-stack solutions. [cite: 5] [cite_start]My work focuses on creating scalable, high-impact applications, from private on-device AI workspaces to intelligent recruitment platforms. [cite: 6]
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0ED9D9&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning;Full-Stack+Web+Development;Building+Scalable%2C+Impactful+Solutions;Hackathon+Winner+%26+Top-Ranked+Student" alt="Typing Animation" />
 </div>
 
 <p align="center">
@@ -18,56 +16,81 @@
 
 ---
 
-## 🏆 Key Highlights
-
-| Category              | Achievement                                                                                             |
-| --------------------- | ------------------------------------------------------------------------------------------------------- |
-| 🥇 **Hackathon Winner** | [cite_start]**3rd Prize Winner** at Hyperverge SensAI Hackathon for developing a RAG-powered quiz bot. [cite: 39]     |
-|  academically strong | [cite_start]**CGPA 9.43/10** in B.Tech Computer Science & Engineering at SRM University. [cite: 9]                     |
-| 🌟 **Top Performer** | [cite_start]**Top 2% (Topper)** in NPTEL's *Python for Data Science* certification course. [cite: 48]                  |
-| 💼 **Experience** | [cite_start]SDE Intern at **Bluestock**, developing responsive UIs and integrating RESTful APIs. [cite: 13, 15, 16] |
-
----
-
 ## 🛠️ Technology Stack
+*Here are the technologies I work with:*
 
-| Area                      | Technologies                                                                                             |
-| ------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Languages** | [cite_start]`Java` `Python` `C++` `JavaScript` `HTML/CSS` `SQL` [cite: 72]                                                |
-| **Frameworks & Libs** | [cite_start]`React.js` `Spring Boot` `Tailwind CSS` `TensorFlow.js` `MediaPipe` [cite: 19, 26, 73]                         |
-| **Tools & Technologies** | [cite_start]`Git & GitHub` `Docker` `RESTful APIs` `Postman` `IndexedDB` `WASM` `Firebase` `PWA` [cite: 19, 20, 31, 74] |
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+#### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+#### Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
+<table>
 
-### 1. Gemma Web – Private, On-Device AI Workspace
-* [cite_start]**Description**: Engineered a fully private, browser-based AI workspace that runs Google's Gemma models directly on-device using WebAssembly, ensuring 100% data privacy and full offline functionality. [cite: 21] [cite_start]It features a zero-latency, serverless inference engine and a complete Retrieval-Augmented Generation (RAG) pipeline for context-aware conversations with user-uploaded documents (PDF, TXT). [cite: 21, 22, 23]
-* [cite_start]**Architecture**: Architected a comprehensive client-side storage solution using IndexedDB to efficiently cache large AI models, manage conversation histories, and persist document embeddings for a seamless PWA experience. [cite: 24]
-* [cite_start]**Tech Stack**: `React` `JavaScript` `WebAssembly (WASM)` `Web Workers` `MediaPipe` `TensorFlow.js` `IndexedDB` `PWA` [cite: 19, 20]
-* **Links**: **[🔗 Live Demo](https://gemma-web-ai.vercel.app/)**
+<tr>
+<td width="50%" valign="top">
+<h3>1. Gemma Web – Private On-Device AI</h3>
+[cite_start]Engineered a fully private, browser-based AI workspace running Google's Gemma models directly on-device using WebAssembly[cite: 21]. [cite_start]This serverless architecture ensures zero-latency inference, 100% data privacy, and full offline functionality[cite: 21]. [cite_start]Implemented a complete RAG pipeline to enable context-aware conversations with user-uploaded documents[cite: 22].
+<br><br>
+<a href="https://gemma-web-ai.vercel.app/">🔗 <strong>Live Demo</strong></a>
+</td>
+<td width="50%">
+<a href="https://gemma-web-ai.vercel.app/"><img src="https://i.ibb.co/8B7q0Dd/pro-banner.gif" alt="Gemma Web Demo GIF"></a>
+</td>
+</tr>
 
-### 2. DevHire AI – AI-Powered Recruitment Platform
-* [cite_start]**Description**: Architected and developed an end-to-end, AI-powered recruitment platform to automate candidate evaluation, significantly reducing recruiter workload and improving role-matching accuracy. [cite: 27]
-* [cite_start]**Core Features**: Delivered key features including automated resume-to-JD scoring, visual heatmaps for skill alignment, and AI-driven skill gap analysis to provide actionable insights for job seekers. [cite: 29]
-* [cite_start]**Tech Stack**: `React.js` `Spring Boot` `Google Gemini AI` `Tailwind CSS` `Apache Tika` `Java` [cite: 26]
-* **Links**: **[🔗 Live Demo](https://devhire-frontend.vercel.app/)**
+<tr>
+<td width="50%" valign="top">
+<h3>2. DevHire AI – AI Recruitment Platform</h3>
+[cite_start]Architected an end-to-end, AI-powered platform to automate candidate evaluation and streamline recruitment[cite: 27]. [cite_start]It significantly reduces recruiter workload by providing automated resume-to-JD scoring, visual skill heatmaps, and AI-driven skill gap analysis[cite: 27, 29].
+<br><br>
+<a href="https://devhire-frontend.vercel.app/">🔗 <strong>Live Demo</strong></a>
+</td>
+<td width="50%">
+<a href="https://devhire-frontend.vercel.app/"><img src="https://i.ibb.co/8B7q0Dd/pro-banner.gif" alt="DevHire AI Demo GIF"></a>
+</td>
+</tr>
 
-### 3. Conversational Quiz Bot (Hyperverge Hackathon Winner)
-* [cite_start]**Description**: Secured 3rd place by designing and deploying a conversational quiz bot integrated directly into Hyperverge's SensAl Learning Management System (LMS) within a 36-hour timeframe. [cite: 38, 39, 41]
-* [cite_start]**Technical Implementation**: Engineered an advanced RAG pipeline to enable the bot to automatically generate questions (MCQs & SAQs) from documents with precise page/line citations. [cite: 42] [cite_start]Implemented interactive Q&A flows using multi-turn dialogue and source-grounded answer verification. [cite: 43]
-* **Links**: **[📂 GitHub Repo](https://github.com/sanalokeshreddy/HyperVerge)**
+<tr>
+<td width="50%" valign="top">
+<h3>3. Conversational Quiz Bot (3rd Place)</h3>
+[cite_start]Secured 3rd place at the Hyperverge SensAI Hackathon by designing and deploying a conversational quiz bot into a live LMS within 36 hours[cite: 39, 41]. [cite_start]Engineered an advanced RAG pipeline to automatically generate questions from documents with precise citations[cite: 42].
+<br><br>
+<a href="https://github.com/sanalokeshreddy/HyperVerge">📂 <strong>GitHub Repo</strong></a>
+</td>
+<td width="50%">
+<a href="https://github.com/sanalokeshreddy/HyperVerge"><img src="https://i.ibb.co/8B7q0Dd/pro-banner.gif" alt="Quiz Bot Demo GIF"></a>
+</td>
+</tr>
 
----
-
-## Experience & Education
-
-### [cite_start]Bluestock – *Software Development Engineer Intern* (Nov 2024 - Dec 2024) [cite: 11, 13, 14]
-* [cite_start]Developed responsive and user-friendly UI components for the Bluestock web application using HTML, CSS, and JavaScript. [cite: 15]
-* [cite_start]Integrated RESTful APIs to connect the frontend with backend services, enabling seamless data flow and dynamic content display. [cite: 16]
-
-### [cite_start]SRM Institute of Science and Technology – *B.Tech, Computer Science* (2022 - 2026) [cite: 9]
-* [cite_start]**CGPA**: 9.43 / 10.0 [cite: 9]
+</table>
 
 ---
 
@@ -79,4 +102,9 @@
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanalokeshreddy&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ED9D9,100:0078D4&height=100&section=footer" alt="Footer Banner"/>
 </p>
