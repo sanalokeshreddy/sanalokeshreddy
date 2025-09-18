@@ -1,110 +1,115 @@
+<!-- ========================= -->
+<!-- 🎨 Custom Banner (Replace this link with your own GIF banner later) -->
 <p align="center">
-  <img src="https://i.ibb.co/8B7q0Dd/pro-banner.gif" alt="Sana Lokesh Reddy - AI & Full-Stack Developer Banner" />
+  <img src="https://i.ibb.co/8B7q0Dd/pro-banner.gif" alt="Banner" width="100%" />
 </p>
 
-<div align="center">
-  <h1>SANA LOKESH REDDY</h1>
-  <h3>AI Engineer & Full-Stack Developer</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0ED9D9&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning;Full-Stack+Web+Development;Building+Scalable%2C+Impactful+Solutions;Hackathon+Winner+%26+Top-Ranked+Student" alt="Typing Animation" />
-</div>
+<!-- ========================= -->
+<!-- ✨ Intro with Typing Animation -->
+<h1 align="center">Hi 👋, I'm Sana Lokesh Reddy</h1>
+<h3 align="center">🚀 AI & Full-Stack Developer | Final Year CSE @ SRM IST (2026)</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanalokeshreddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/sanalokeshreddy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:ls7679@srmist.edu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0ED9D9&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+Full-Stack+Development;Hackathon+Winner+%7C+Top+2%25+NPTEL+Scholar;Building+Impactful+AI-Powered+Projects" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🛠️ Technology Stack
-*Here are the technologies I work with:*
+## 🏆 Highlights  
 
-#### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
+- 🥇 **3rd Prize Winner – Hyperverge SensAI Hackathon 2025** (₹10,000 cash prize)  
+- 🎓 **CGPA 9.43/10** – Consistently strong academic performance  
+- 🌟 **Top 2% (Topper)** – NPTEL *Python for Data Science*  
+- 💼 **Bluestock SDE Intern** – Built responsive UI & REST API integrations  
+- 💡 Passionate about **AI, ML, and building scalable full-stack systems**  
 
-#### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</p>
+---
 
-#### Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,sql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,spring,tailwind,androidstudio,tensorflow" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,firebase" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-<table>
+## 📌 Featured Projects  
 
-<tr>
-<td width="50%" valign="top">
-<h3>1. Gemma Web – Private On-Device AI</h3>
-[cite_start]Engineered a fully private, browser-based AI workspace running Google's Gemma models directly on-device using WebAssembly[cite: 21]. [cite_start]This serverless architecture ensures zero-latency inference, 100% data privacy, and full offline functionality[cite: 21]. [cite_start]Implemented a complete RAG pipeline to enable context-aware conversations with user-uploaded documents[cite: 22].
-<br><br>
-<a href="https://gemma-web-ai.vercel.app/">🔗 <strong>Live Demo</strong></a>
-</td>
-<td width="50%">
-<a href="https://gemma-web-ai.vercel.app/"><img src="https://i.ibb.co/8B7q0Dd/pro-banner.gif" alt="Gemma Web Demo GIF"></a>
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-<h3>2. DevHire AI – AI Recruitment Platform</h3>
-[cite_start]Architected an end-to-end, AI-powered platform to automate candidate evaluation and streamline recruitment[cite: 27]. [cite_start]It significantly reduces recruiter workload by providing automated resume-to-JD scoring, visual skill heatmaps, and AI-driven skill gap analysis[cite: 27, 29].
-<br><br>
-<a href="https://devhire-frontend.vercel.app/">🔗 <strong>Live Demo</strong></a>
-</td>
-<td width="50%">
-<a href="https://devhire-frontend.vercel.app/"><img src="https://i.ibb.co/8B7q0Dd/pro-banner.gif" alt="DevHire AI Demo GIF"></a>
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-<h3>3. Conversational Quiz Bot (3rd Place)</h3>
-[cite_start]Secured 3rd place at the Hyperverge SensAI Hackathon by designing and deploying a conversational quiz bot into a live LMS within 36 hours[cite: 39, 41]. [cite_start]Engineered an advanced RAG pipeline to automatically generate questions from documents with precise citations[cite: 42].
-<br><br>
-<a href="https://github.com/sanalokeshreddy/HyperVerge">📂 <strong>GitHub Repo</strong></a>
-</td>
-<td width="50%">
-<a href="https://github.com/sanalokeshreddy/HyperVerge"><img src="https://i.ibb.co/8B7q0Dd/pro-banner.gif" alt="Quiz Bot Demo GIF"></a>
-</td>
-</tr>
-
-</table>
+### 🔹 [Gemma Web – Private On-Device AI Workspace](https://gemma-web-ai.vercel.app/)  
+![Gemma Web Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZtM2F3amltNzhzNjh4Z3c4NTR6cDJqYWZibTZjdW04aWk1NGJ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YFkpsHWCsNUUo/giphy.gif)  
+> **React, TensorFlow.js, MediaPipe, WASM, IndexedDB, PWA**  
+- **100% private AI workspace** – runs Gemma models fully in-browser.  
+- Delivered **zero-latency inference & offline support**.  
+- Implemented **RAG pipeline** for document-grounded conversations.  
+🔗 [Live Demo](https://gemma-web-ai.vercel.app/)  
 
 ---
 
-## 📊 GitHub Stats & Activity
+### 🔹 [DevHire AI – AI-Powered Recruitment Platform](https://devhire-frontend.vercel.app/)  
+> **React.js, Spring Boot, Gemini AI, Apache Tika, Tailwind CSS**  
+- Automated **resume-to-JD matching, skill gap analysis, and heatmaps**.  
+- AI-driven analytics to **reduce recruiter workload** and improve **role-matching accuracy**.  
+🔗 [Live Demo](https://devhire-frontend.vercel.app/)  
+
+---
+
+### 🔹 [RetailAura – Smart Shopping Assistant (Android)](https://www.youtube.com/watch?v=a0QU6w38XKs)  
+> **Kotlin, Firebase, Razorpay API, Gemini AI API**  
+- Built **AI-powered retail app** with **barcode scanning & product recommendations**.  
+- Integrated **chat assistant + payments** for a seamless shopping experience.  
+🔗 [Watch Demo](https://www.youtube.com/watch?v=a0QU6w38XKs)  
+
+---
+
+### 🔹 [Hyperverge SensAI Hackathon – Interactive Quiz Bot](https://github.com/sanalokeshreddy/HyperVerge)  
+> **Conversational AI, RAG, LMS Integration**  
+- 🏆 **3rd Prize Winner** among 72 teams.  
+- Auto-generated **MCQs/SAQs with document citations**.  
+- Implemented **adaptive Q&A flows + no-reveal hints**.  
+📂 [GitHub Repo](https://github.com/sanalokeshreddy/HyperVerge)  
+
+---
+
+## 🎓 Certifications  
+
+- 📜 [Python for Data Science – NPTEL (Top 2%)](https://nptel.ac.in/noc/E_Certificate/NPTEL25CS60S44330804201310600)  
+- 📜 [Introduction to Machine Learning – NPTEL](https://nptel.ac.in/noc/E_Certificate/NPTEL24CS81S43310602702694595)  
+- 📜 [Cloud Computing – NPTEL](https://nptel.ac.in/noc/E_Certificate/NPTEL25CS11S94321167804240415)  
+- 📜 [Programming in Java – NPTEL](https://nptel.ac.in/noc/E_Certificate/NPTEL24CS43S105340422530563557)  
+- 📜 [GitHub Foundations](https://www.credly.com/go/tbOwqtCe)  
+- 📜 [Programming in Modern C++ – NPTEL](https://nptel.ac.in/noc/E_Certificate/NPTEL25CS58S34321012804240415)  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanalokeshreddy&show_icons=true&theme=tokyonight&count_private=true" height="180em" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanalokeshreddy&layout=compact&theme=tokyonight" height="180em" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanalokeshreddy&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanalokeshreddy&layout=compact&theme=tokyonight" height="180em"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanalokeshreddy&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanalokeshreddy&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
+
+## 🌍 Connect With Me  
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ED9D9,100:0078D4&height=100&section=footer" alt="Footer Banner"/>
+  <a href="https://www.linkedin.com/in/sanalokeshreddy/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ls7679@srmist.edu.in"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/sanalokeshreddy"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ED9D9,100:0078D4&height=100&section=footer"/>
+</p>
+
+✨ *Exploring the intersection of AI, full-stack development & real-world impact.* 🚀
