@@ -40,7 +40,7 @@
 ## 📌 Featured Projects  
 
 ### 🔹 [Gemma Web – Private On-Device AI Workspace](https://gemma-web-ai.vercel.app/)  
-![Gemma Web Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZtM2F3amltNzhzNjh4Z3c4NTR6cDJqYWZibTZjdW04aWk1NGJ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YFkpsHWCsNUUo/giphy.gif)  
+![Gemma Web Demo]  
 > **React, TensorFlow.js, MediaPipe, WASM, IndexedDB, PWA**  
 - **100% private AI workspace** – runs Gemma models fully in-browser.  
 - Delivered **zero-latency inference & offline support**.  
