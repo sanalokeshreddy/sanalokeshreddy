@@ -26,7 +26,7 @@ class SanaLokeshReddy {
     // 🎓 Academic Profile
     readonly name: string = "Sana Lokesh Reddy";
     readonly institution: string = "SRM Institute of Science & Technology";
-    readonly degree: string = "B.Tech in Computer Science";
+    readonly degree: string = "B.Tech in Computer Science and Engineering";
     readonly cgpa: number = 9.43;
     readonly location: string = "Chennai, Tamil Nadu 🇮🇳";
     
@@ -107,12 +107,12 @@ console.log(developer.motto);
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/star.png" width="65" alt="Star"/>
 <h3>🌟 NPTEL Topper</h3>
-<p><b>Python Data Science</b><br/>Top 2% Nationwide<br/><b>Elite + Silver</b></p>
+<p><b>Python Data Science</b><br/>Topper 2% <br/><b>Elite + Silver Certification</b></p>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="65" alt="Graduate"/>
 <h3>🎓 Academic Star</h3>
-<p><b>CGPA 9.43/10</b><br/>SRM Institute<br/>Consistent Excellence</p>
+<p><b>CGPA 9.43/10</b><br/>SRM Institute of Science and Technology<br/>Consistent Excellence</p>
 </td>
 </tr>
 </table>
@@ -140,10 +140,6 @@ console.log(developer.motto);
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
       <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
-      <br><b>TypeScript</b>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
@@ -176,14 +172,6 @@ console.log(developer.motto);
       <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
       <br><b>Tailwind CSS</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
-      <br><b>Bootstrap</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
-      <br><b>Node.js</b>
-    </td>
   </tr>
 </table>
 
@@ -200,16 +188,8 @@ console.log(developer.motto);
       <br><b>Docker</b>
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
-      <br><b>AWS</b>
-    </td>
-    <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
       <br><b>REST API</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="Firebase" />
-      <br><b>Firebase</b>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
@@ -242,10 +222,6 @@ console.log(developer.motto);
       <img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" width="55" height="55" alt="PWA" />
       <br><b>PWA</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
-      <br><b>MySQL</b>
-    </td>
   </tr>
 </table>
 
@@ -267,32 +243,72 @@ console.log(developer.motto);
 <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"/>
 </p>
 
-**A privacy-first AI workspace running Google's Gemma models entirely in-browser with zero server calls.**
-
-🔒 **100% Client-Side Processing** • ⚡ **WebAssembly Performance** • 📄 **RAG Document Chat** • 🌐 **Full Offline Mode**
-
 </div>
 
+> **A groundbreaking browser-based AI workspace that runs Google's Gemma models entirely on-device, ensuring 100% data privacy and full offline functionality.**
+
 <details>
-<summary><b>🔍 Technical Deep Dive</b></summary>
+<summary><b>🔍 Deep Dive into Architecture & Features</b></summary>
 
 <br>
 
-**Core Architecture:**
-- React 18 + WebAssembly for near-native browser performance
-- MediaPipe for efficient on-device model inference
-- IndexedDB persistence (2GB+ model storage)
-- TensorFlow.js for document embedding & RAG pipeline
+#### 🎯 Core Innovation
+This project represents a paradigm shift in AI deployment by eliminating server dependencies entirely. By leveraging cutting-edge web technologies, Gemma Web delivers enterprise-grade AI capabilities while maintaining absolute user privacy.
 
-**Privacy Innovation:**
-- Zero data transmission • All processing happens locally
-- Documents never leave your device • No API calls required
-- Complete offline functionality after initial setup
+#### ⚡ Technical Architecture
 
-**Performance:**
-- Initial load: ~15s (one-time model download)
-- Inference: 100-300ms per response
-- Memory: ~1.5GB for Gemma-2B model
+**Frontend Layer:**
+- **React 18** with modern hooks for state management
+- **Progressive Web App** architecture for offline-first experience
+- **Responsive UI** with adaptive design patterns
+
+**AI Processing Layer:**
+- **WebAssembly** for near-native performance in browser
+- **MediaPipe** for efficient model loading and inference
+- **TensorFlow.js** for document embedding generation
+- **Web Workers** for non-blocking background processing
+
+**Data Layer:**
+- **IndexedDB** for persistent storage of models (up to 2GB)
+- **Local Storage** for user preferences and settings
+- **Blob Storage** for document caching
+
+#### 🔒 Privacy-First Features
+
+| Feature | Implementation | Benefit |
+|---------|---------------|---------|
+| **Zero Server Calls** | Complete client-side execution | No data transmission risks |
+| **Local Model Storage** | IndexedDB persistence | Models stay on device |
+| **Document Processing** | Browser-based PDF parsing | Documents never uploaded |
+| **Offline Capability** | Service Worker caching | Works without internet |
+
+#### 📄 RAG Pipeline Implementation
+
+1. **Document Ingestion:** PDF/TXT files processed using Web Workers
+2. **Chunking Strategy:** Semantic chunking with 512-token windows
+3. **Embedding Generation:** TensorFlow.js generates 384-dim vectors
+4. **Vector Storage:** Efficient IndexedDB storage with indexing
+5. **Retrieval:** Cosine similarity search for relevant context
+6. **Generation:** Context-aware responses using Gemma models
+
+#### 📊 Performance Metrics
+
+- **Initial Load:** ~15 seconds (first-time model download)
+- **Inference Time:** 100-300ms per response
+- **Memory Usage:** ~1.5GB for Gemma-2B model
+- **Offline Mode:** 100% functional after initial setup
+
+#### 🎨 User Experience Highlights
+
+✨ **Seamless Installation** - One-click PWA installation  
+🔄 **Conversation History** - Automatic local persistence  
+📱 **Mobile Optimized** - Responsive design for all devices  
+🌙 **Dark Mode** - Easy on the eyes for extended use  
+⚡ **Real-time Processing** - Instant feedback during generation  
+
+#### 💡 Impact & Innovation
+
+This project demonstrates that sophisticated AI applications can be built without compromising user privacy. It opens new possibilities for sensitive use cases in healthcare, legal, and financial sectors where data privacy is paramount.
 
 </details>
 
@@ -300,42 +316,87 @@ console.log(developer.motto);
 
 <div align="center">
 
-### 💼 [DevHire AI | Smart Recruitment Platform](https://devhire-frontend.vercel.app/)
+### 💼 [DevHire AI | AI-Powered Recruitment Platform](https://devhire-frontend.vercel.app/)
 
 <p>
 <a href="https://devhire-frontend.vercel.app/"><img src="https://img.shields.io/badge/🔗_Live_Demo-Visit_Site-00C853?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Tika-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
-
-**AI-powered recruitment platform reducing screening time by 30% through contextual candidate analysis.**
-
-🎯 **Deep Skill Matching** • 📊 **Analytics Dashboard** • 🤖 **Smart Ranking** • 📄 **Multi-Format Support**
 
 </div>
 
+> **An intelligent recruitment platform that leverages AI to reduce screening time by 30%, providing deep contextual analysis beyond traditional keyword matching.**
+
 <details>
-<summary><b>🔍 Technical Deep Dive</b></summary>
+<summary><b>🔍 System Architecture & Implementation</b></summary>
 
 <br>
 
-**System Architecture:**
-- Spring Boot backend with RESTful API design
-- React frontend with Redux state management
-- Apache Tika for document text extraction
-- Gemini AI for contextual resume analysis
+#### 🎯 Business Problem & Solution
 
-**Key Features:**
-- Semantic skill matching beyond keyword search
-- Automated candidate ranking with AI insights
-- Interactive skill gap heatmaps & analytics
-- Multi-format support (PDF, DOCX) with robust parsing
+**Challenge:** Manual resume screening is time-consuming and prone to bias  
+**Solution:** AI-driven contextual analysis with automated ranking and insights
 
-**Impact:**
-- 30% reduction in screening time
-- Higher quality shortlisting through AI
-- Reduced bias in candidate evaluation
+#### 🏗️ System Architecture
+
+**Backend (Spring Boot):**
+```
+┌─────────────────────────────────────────┐
+│         Spring Boot Application         │
+├─────────────────────────────────────────┤
+│  • REST API Layer (Controllers)         │
+│  • Business Logic (Services)            │
+│  • Data Access (Repositories)           │
+│  • AI Integration (Gemini API)          │
+│  • Document Processing (Apache Tika)    │
+└─────────────────────────────────────────┘
+```
+
+**Frontend (React.js):**
+```
+┌─────────────────────────────────────────┐
+│         React Application               │
+├─────────────────────────────────────────┤
+│  • Component-based UI                   │
+│  • State Management (Redux)             │
+│  • API Integration (Axios)              │
+│  • Responsive Design (Tailwind CSS)     │
+└─────────────────────────────────────────┘
+```
+
+#### 🤖 AI Processing Pipeline
+
+1. **Document Upload** → Resume files (PDF/DOCX) uploaded by recruiters
+2. **Text Extraction** → Apache Tika extracts structured text
+3. **Data Normalization** → Clean and standardize extracted data
+4. **AI Analysis** → Gemini AI performs deep contextual analysis
+5. **Skill Mapping** → Match candidate skills with job requirements
+6. **Scoring Algorithm** → Calculate compatibility scores
+7. **Ranking System** → Generate ordered candidate list
+#### 📊 Key Features
+
+**Intelligent Matching:**
+- Deep semantic understanding of technical skills
+- Context-aware experience evaluation
+- Cultural fit assessment through language analysis
+- Project relevance scoring
+
+**Multi-format Support:**
+- PDF processing with layout preservation
+- DOCX parsing with styling extraction
+- Automatic format detection
+- Robust error handling
+
+
+#### 📈 Impact Metrics
+
+- **30% reduction** in initial screening time
+- **Higher quality** shortlisting through AI insights
+- **Reduced bias** in candidate evaluation
+- **Improved experience** for both recruiters and candidates
 
 </details>
 
@@ -349,32 +410,73 @@ console.log(developer.motto);
 <tr>
 <td width="50%" valign="top">
 
-### 🥇 Hyperverge SensAI Hackathon
+### 🥇 [Hyperverge SensAI Hackathon](https://github.com/sanalokeshreddy/HyperVerge)
 
-<img src="https://img.shields.io/badge/🏆_3rd_Prize-₹10,000-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/👥_Rank-3/72_Teams-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆_3rd_Prize_Winner-August_2025-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/👥_Rank-3_out_of_72+ Team-FF5722?style=for-the-badge"/>
 
-**Conversational Quiz Bot for LMS**
+<br><br>
 
-Built an intelligent quiz generation system integrated with Hyperverge's LMS in 36 hours. Features auto-generated MCQs/SAQs from documents, adaptive hint system, and real-time integration via REST APIs.
+**🎓 Conversational Quiz Bot for LMS Integration**
 
-**Tech:** Python, RAG, Gemini AI, Flask, LangChain
+Developed a sophisticated quiz bot integrated directly into Hyperverge's SensAI Learning Management System within a demanding 36-hour timeframe.
 
-[View Project →](https://github.com/sanalokeshreddy/HyperVerge)
+**Innovation Highlights:**
+
+🤖 **Intelligent Question Generation**
+- Auto-generates MCQs and SAQs from uploaded documents
+- Context-aware questions with accurate citations
+- Difficulty-level adaptation based on user performance
+
+💡 **Smart Hint System**
+- Adaptive hints without revealing answers
+- Progressive disclosure of information
+- Learning-focused assistance
+
+🔗 **Seamless Integration**
+- Direct integration with SensAI platform
+- RESTful API for communication
+- Real-time synchronization
+
+**Tech Stack:** Python, RAG Pipeline, Google Gemini AI, Flask, LangChain
+
+**Key Achievement:** Stood out among 72 teams through innovative approach to educational assessment
 
 </td>
 <td width="50%" valign="top">
 
-### 🏅 NatWest Hackathon Finalist
+### 🏅 [NatWest Hackathon](https://github.com/sanalokeshreddy)
 
-<img src="https://img.shields.io/badge/🎯_Finalist-100+_Teams-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💡_Innovation-LearnIQ-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎯_Finalist-September_2025-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💡_Innovation-LearnIQ_Platform-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/👥_Selected_from-100+_Teams-00897B?style=for-the-badge"/>
 
-**LearnIQ Assessment Platform**
+<br><br>
 
-Developed adaptive AI assessment platform with dynamic question generation, personalized difficulty adjustment, and comprehensive analytics. Selected as finalist through innovative RAG implementation.
+**🚀 LearnIQ - Adaptive AI Assessment Platform**
 
-**Tech:** React, Spring Boot, Gemini AI, Vector DB
+Architected an end-to-end AI assessment platform that generates personalized, context-aware questions using advanced RAG techniques.
+
+**Platform Capabilities:**
+
+🎯 **Adaptive RAG Pipeline**
+- Dynamic question generation based on learning materials
+- Personalized difficulty adjustment
+- Multi-format content support (PDF, PPT, Video transcripts)
+
+📊 **Comprehensive Assessment**
+- Multiple question types (MCQ, SAQ, True/False)
+- Automatic grading with detailed feedback
+- Progress tracking and analytics
+
+🎓 **Educational Focus**
+- Bloom's taxonomy alignment
+- Learning objective mapping
+- Concept reinforcement through spaced repetition
+
+**Tech Stack:** React.js, Spring Boot, Google Gemini AI, Vector DB, RESTful APIs
+
+**Key Achievement:** Selected as finalist from 400+ participating teams through innovative AI implementation
 
 </td>
 </tr>
@@ -394,53 +496,6 @@ Developed adaptive AI assessment platform with dynamic question generation, pers
 | **Introduction to Machine Learning** | NPTEL | Elite + Silver | October 2024 | [Certificate](https://nptel.ac.in/noc/E_Certificate/NPTEL24CS81S43310602702694595) |
 | **Cloud Computing** | NPTEL | Certified | May 2025 | [Certificate](https://nptel.ac.in/noc/E_Certificate/NPTEL25CS11S94321167804240415) |
 | **Programming in Java** | NPTEL | Certified | April 2024 | [Certificate](https://nptel.ac.in/noc/E_Certificate/NPTEL24CS43S105340422530563557) |
-
-</div>
-
----
-
-## 💭 Philosophy & Principles
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎯
-## Code with Purpose
-
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
-> 
-> — <em>Martin Fowler</em>
-
-</td>
-<td align="center" width="33%">
-
-### 🔒
-## Privacy by Design
-
-> "Privacy is not something that I'm merely entitled to, it's an absolute prerequisite."
-> 
-> — <em>Marlon Brando</em>
-
-</td>
-<td align="center" width="33%">
-
-### 🚀
-## Innovation First
-
-> "The best way to predict the future is to invent it."
-> 
-> — <em>Alan Kay</em>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Where+Privacy+Meets+Innovation+%F0%9F%94%92;Transforming+Ideas+Into+Impact+%F0%9F%92%A1" alt="Typing SVG" />
 
 </div>
 
@@ -474,13 +529,42 @@ Developed adaptive AI assessment platform with dynamic question generation, pers
 
 ---
 
+## 💬 Professional Philosophy
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/idea.png" width="60"/>
+<br><br>
+<b>"First, solve the problem.<br/>Then, write the code."</b>
+<br><em>- John Johnson</em>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
+<br><br>
+<b>"Code is poetry<br/>written in logic."</b>
+<br><em>- Developer's Wisdom</em>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/security-checked.png" width="60"/>
+<br><br>
+<b>"Privacy is not a feature,<br/>it's a fundamental right."</b>
+<br><em>- My Core Belief</em>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📫 Connect & Collaborate
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Open+to+Full-Stack+%26+AI%2FML+Opportunities;Let's+Build+Something+Extraordinary!;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-
-<br><br>
+<p>I'm actively seeking opportunities to contribute to innovative projects and collaborate with talented teams.<br/>Let's build something extraordinary together! 🚀</p>
 
 <table>
 <tr>
