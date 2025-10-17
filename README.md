@@ -449,7 +449,7 @@ Developed a sophisticated quiz bot integrated directly into Hyperverge's SensAI 
 
 <img src="https://img.shields.io/badge/🎯_Finalist-September_2025-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/💡_Innovation-LearnIQ_Platform-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/👥_Selected_from-100+_Teams-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/👥_Selected_from-400+_Teams-00897B?style=for-the-badge"/>
 
 <br><br>
 
@@ -474,7 +474,7 @@ Architected an end-to-end AI assessment platform that generates personalized, co
 - Learning objective mapping
 - Concept reinforcement through spaced repetition
 
-**Tech Stack:** React.js, Spring Boot, Google Gemini AI, Vector DB, RESTful APIs
+**Tech Stack:** React.js, Spring Boot, Google Gemini AI, RESTful APIs
 
 **Key Achievement:** Selected as finalist from 400+ participating teams through innovative AI implementation
 
@@ -515,49 +515,16 @@ Architected an end-to-end AI assessment platform that generates personalized, co
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanalokeshreddy/sanalokeshreddy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanalokeshreddy/sanalokeshreddy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sanalokeshreddy/sanalokeshreddy/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
 ---
 
 ## 💬 Professional Philosophy
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/idea.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/graph.png" width="80"/>
 <br><br>
-<b>"First, solve the problem.<br/>Then, write the code."</b>
-<br><em>- John Johnson</em>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
-<br><br>
-<b>"Code is poetry<br/>written in logic."</b>
-<br><em>- Developer's Wisdom</em>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/security-checked.png" width="60"/>
-<br><br>
-<b>"Privacy is not a feature,<br/>it's a fundamental right."</b>
-<br><em>- My Core Belief</em>
-</td>
-</tr>
-</table>
-
+<b>"Continuous improvement is better than delayed perfection."</b>
+<br><em>- Mark Twain</em>
 </div>
-
 ---
 
 ## 📫 Connect & Collaborate
@@ -573,13 +540,6 @@ Architected an end-to-end AI assessment platform that generates personalized, co
 <img src="https://img.icons8.com/fluency/96/gmail.png" width="60"/>
 <br><b>Email</b>
 <br>sanalokeshreddy@gmail.com
-</a>
-</td>
-<td align="center" width="33%">
-<a href="tel:+917207096013">
-<img src="https://img.icons8.com/fluency/96/phone.png" width="60"/>
-<br><b>Phone</b>
-<br>+91 72070 96013
 </a>
 </td>
 <td align="center" width="33%">
