@@ -499,21 +499,6 @@ Architected an end-to-end AI assessment platform that generates personalized, co
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanalokeshreddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics&ring_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanalokeshreddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&text_color=C9D1D9&bg_color=0D1117" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanalokeshreddy&theme=tokyonight&hide_border=true&stroke=3B82F6&ring=8B5CF6&fire=F59E0B&currStreakLabel=C9D1D9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanalokeshreddy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
-</div>
-
----
 
 ---
 
@@ -560,14 +545,6 @@ Architected an end-to-end AI assessment platform that generates personalized, co
 </div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sanalokeshreddy&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/sanalokeshreddy?style=for-the-badge&color=blue&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/sanalokeshreddy?style=for-the-badge&color=yellow&label=TOTAL+STARS)
-
-<br>
 
 ### ⭐ If my work resonates with you, consider starring my repositories! ⭐
 
